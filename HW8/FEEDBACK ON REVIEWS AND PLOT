@@ -1,0 +1,62 @@
+reviewed were harsh, but good! 10/10
+
+NOTES ON YOUR PLOT
+===================
+
+the 3d as usual makes comparison difficult. additionally 3d bind distort the perception: we should compare differences in height but we are left with the impression given byt he difference in volumes
+
+the color is redundant with the year 
+
+tick labels too small
+
+the cause of dheath axis labels are offset with respect to the variable
+
+typo in the title (parenthesis close that was never open)
+
+
+NOTES ON YOUR PLOT THE PLOTS YOU REVIEWED
+===========================================
+
+
+
+chunter
+============
+
+
+not robust to color blindness: 10% of males cannot read your plot
+
+axis labels too small
+
+empty space at the left should be remove
+
+point size unexplained and redundant with distance, enforcing an impression by doubly displaying
+
+
+title ambiguous
+
+
+ec2986
+============
+
+the 3d obstructs the structure, but the structure is symmetric so this is justified
+
+the color is redundant with the z axis, but it helos read the y value in the 3D structure
+
+the z axis label is ambiguous: spell the function out
+
+the axis labels are too small to be readable
+
+
+
+
+yf903
+============
+
+units missing in labels
+
+tick labels too small
+
+lines unexplained
+
+color undistinguishable for the 10% of the male population that is color blind
+  
